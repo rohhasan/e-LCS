@@ -1,0 +1,8 @@
+{
+  "name": "E-LCS Penyuluh - Caping 3D Login",
+  "description": "Sistem Pelaporan Eviden Like, Comment & Share (E-LCS) Penyuluh Pertanian dengan Login Interaktif Karakter Caping 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
